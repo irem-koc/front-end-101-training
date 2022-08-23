@@ -1,0 +1,54 @@
+<script>
+    function how(){
+        alert("This is legen.... wait for it.... dary user!")
+    }
+</script>
+
+<h1>İrem Koç</h1>
+<h3>Hello Everyone, </h3><br>
+<a href="#foot">To End</a>
+<p><b> This is my personnal website! I learn
+    some different programming languages to be a software engineer .</b>
+</p>
+<h2><i>My Interests</i></h2>
+<ol>
+    <li>Films
+        <ul>
+            <li><a href="https://www.imdb.com/title/tt4114744/?ref_=fn_al_tt_1" target="_blank">Unutursam Fısılda</a>
+            </li>
+            <li><a href="https://www.imdb.com/title/tt14369296/?ref_=fn_al_tt_1" target="_blank"
+                    rel="noopener noreferrer">Aşkın Kıyameti</a></li>
+            <li><a href="https://www.imdb.com/title/tt7533846/?ref_=nv_sr_srsg_0" target="_blank"
+                    rel="noopener noreferrer">Mutluluk Zamanı</a></li>
+        </ul>
+    </li>
+    <li>Series
+        <ul>
+            <li><a href="https://www.imdb.com/title/tt0460649/?ref_=nv_sr_srsg_0" target="_blank"
+                    rel="noopener noreferrer">How I Met Your Mother</a></li>
+            <li><a href="https://www.imdb.com/title/tt13317582/?ref_=nv_sr_srsg_0" target="_blank">KULÜP</a></li>
+            <li><a href="https://www.imdb.com/title/tt5753856/?ref_=nv_sr_srsg_0" target="_blank"
+                    rel="noopener noreferrer">DARK</a></li>
+        </ul>
+    </li>
+    <li>Books
+        <ul>
+            <li><a href="https://www.goodreads.com/" target="_blank" rel="noopener noreferrer">1984</a></li>
+            <li><a href="https://www.goodreads.com/" target="_blank" rel="noopener noreferrer">Keloğlan Masalları</a>
+            </li>
+            <li><a href="https://www.goodreads.com/" target="_blank" rel="noopener noreferrer">Satranç</a></li>
+        </ul>
+    </li>
+</ol>
+
+<h2>My favorite Series</h2>
+<h3>How I Met Your Mother</h3>
+<div>
+    <img src="https://www.indyturk.com/sites/default/files/styles/1368x911/public/article/main_image/2021/05/18/665101-1003371114.jpg?itok=jPs9uRB_"
+        alt="How I met Your Mother" width="100px" height="100px">
+    <p>Maybe, you won't believe but I started this series too late. I realy like this</p>
+    <p>Also, I find this very useful to improve my listening skills</p>
+    <p>And I think there are too funny thing in every episode, so I can be more relax, optimistic</p>
+</div>
+
+<img src="https://media.istockphoto.com/vectors/applause-and-like-group-of-people-hands-multicultural-clap-cheering-vector-id1221631496?k=20&m=1221631496&s=170667a&w=0&h=Ocjj-9UEZZk1L9uov759pvyUyFOWSRUrmWR0H9VgVis=" alt="Clapping" id="foot"  onload="how()">
